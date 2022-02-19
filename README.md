@@ -21,10 +21,10 @@ Figure 2. December Tempreatures Stats Summary
   
   
 * Standard Deviations
-
+The standard deviations of June was 3.257 and for December it was 3.745. This means that the most stable temperature bewteen the two months is June. 
 
 * Maximums and Minimums
-The maximum temperature for June is and for December is . This makes it only a few degrees different for higher temperatures. The biggest difference is the minimum temperature between the two months. There was a difference of degrees between both months that greatly impacts the amount of traffic coming into the beach. 
+The maximum temperature for June is 85 degrees Fahrenheit and for December is 83 degrees Fahrenheit. This makes it only a couple degrees difference when it comes to maximum temperatures. The biggest difference is the minimum temperature between the two months. There was a difference of 8 degrees between both months that greatly impacts the amount of traffic coming into the beach. 
 
 
 ## Summary 
