@@ -29,3 +29,5 @@ The maximum temperature for June is 85 degrees Fahrenheit and for December is 83
 
 ## Summary 
 <!--  Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December. There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December--> 
+
+When analyzing our data we can see that overall, the temperatures between December and June, are relatively close. The biggest execption is the minimum temperature dropping much lower than June's minimum temperature. Overall, the month of December is a couple of degrees on average colder than the month of June, making it an ideal place for visitors to come and escape to this magiacl island. 
