@@ -30,13 +30,16 @@ The maximum temperature for June is 85 degrees Fahrenheit and for December is 83
 ## Summary 
 <!--  Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December. There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December--> 
 ### Additional Information
-A more indept view is needed to determine if starting a surf and ice cream shop on the beach would be successful. An analysis was also done on the statics of precipitation. We can see in Figure 3 and Figure 4, the average rain fall. June had an average of and December had an average rain fall of, making it almost double than June. 
+A more indept view is needed to determine if starting a surf and ice cream shop on the beach would be successful. An analysis was also done on the statics of precipitation. We can see in Figure 3 and Figure 4, the average rain fall. June had an average of 0.136 and December had an average rain fall of 0.217.
 
 Figure 3. June Precipitation Stats Summary 
 
+<img width="903" alt="june_rain" src="https://user-images.githubusercontent.com/65638310/154825991-148fa422-9149-4554-a5be-97071f05184f.png">
 
 
 Figure 4. December Precipitation Stats Summary 
+
+<img width="1044" alt="december_rain" src="https://user-images.githubusercontent.com/65638310/154825996-1da21b7e-0a10-44df-9f34-1e10a670b290.png">
 
 
 
