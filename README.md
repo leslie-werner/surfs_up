@@ -29,5 +29,21 @@ The maximum temperature for June is 85 degrees Fahrenheit and for December is 83
 
 ## Summary 
 <!--  Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December. There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December--> 
+### Additional Information
+A more indept view is needed to determine if starting a surf and ice cream shop on the beach would be successful. An analysis was also done on the statics of precipitation. We can see in Figure 3 and Figure 4, the average rain fall. June had an average of and December had an average rain fall of, making it almost double than June. 
 
-When analyzing our data we can see that overall, the temperatures between December and June, are relatively close. The biggest execption is the minimum temperature dropping much lower than June's minimum temperature. Overall, the month of December is a couple of degrees on average colder than the month of June, making it an ideal place for visitors to come and escape to this magiacl island. 
+Figure 3. June Precipitation Stats Summary 
+
+
+
+Figure 4. December Precipitation Stats Summary 
+
+
+
+### Conclusion
+When analyzing our data we can see that overall, the temperatures between December and June, are relatively close. The biggest execption is the minimum temperature dropping much lower than June's minimum temperature. Overall, the month of December is a couple of degrees on average colder than the month of June. 
+
+Although the average rain fall in December is higher than June, it is relatively low between the two months. With both month's having zero precipitation when looking at the minimum rainfall. 
+
+When looking at the above information, we can conclude, for many, it is an ideal place for visitors to come and escape to this magical island. 
+ 
